@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://masterchef2000.github.io/2023/04/24/about/me/</loc>
+    
+    <lastmod>2023-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://masterchef2000.github.io/2023/04/24/Welcome-to-my-blog/</loc>
     
     <lastmod>2023-04-24</lastmod>
