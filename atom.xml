@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Masterchef&#39;s HomePage</title>
   
+  <subtitle>hello, world</subtitle>
+  <link href="https://masterchef2000.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://masterchef2000.github.io/"/>
   <updated>2023-04-24T11:33:21.157Z</updated>
-  <id>http://example.com/</id>
+  <id>https://masterchef2000.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Masterchef</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Welcome to my blog</title>
-    <link href="http://example.com/2023/04/24/Welcome-to-my-blog/"/>
-    <id>http://example.com/2023/04/24/Welcome-to-my-blog/</id>
+    <link href="https://masterchef2000.github.io/2023/04/24/Welcome-to-my-blog/"/>
+    <id>https://masterchef2000.github.io/2023/04/24/Welcome-to-my-blog/</id>
     <published>2023-04-24T11:31:36.000Z</published>
     <updated>2023-04-24T11:33:21.157Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/04/24/hello-world/"/>
-    <id>http://example.com/2023/04/24/hello-world/</id>
+    <link href="https://masterchef2000.github.io/2023/04/24/hello-world/"/>
+    <id>https://masterchef2000.github.io/2023/04/24/hello-world/</id>
     <published>2023-04-24T11:05:49.423Z</published>
     <updated>2023-04-24T11:05:49.423Z</updated>
     
