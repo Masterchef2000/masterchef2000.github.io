@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Masterchef&#39;s HomePage</title>
   
-  <subtitle>hello, world</subtitle>
+  <subtitle>I love VSCode</subtitle>
   <link href="https://masterchef2000.github.io/atom.xml" rel="self"/>
   
   <link href="https://masterchef2000.github.io/"/>
@@ -29,34 +29,6 @@
       
       
     <summary type="html">&lt;p&gt;Hello, I am masterchef!&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Welcome to my blog</title>
-    <link href="https://masterchef2000.github.io/2023/04/24/Welcome-to-my-blog/"/>
-    <id>https://masterchef2000.github.io/2023/04/24/Welcome-to-my-blog/</id>
-    <published>2023-04-24T11:31:36.000Z</published>
-    <updated>2023-04-24T11:33:21.157Z</updated>
-    
-    <content type="html"><![CDATA[<ul><li><p>I am Masterchef </p></li><li><p>I am interested in Information Security</p></li><li><p>Let’s Study!</p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;I am Masterchef &lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I am interested in Information Security&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Let’s Study!&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 </summary>
       
     
