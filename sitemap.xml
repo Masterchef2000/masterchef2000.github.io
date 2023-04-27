@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://masterchef2000.github.io/2023/04/27/Notice/</loc>
+    
+    <lastmod>2023-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://masterchef2000.github.io/archives/index.html</loc>
     
     <lastmod>2023-04-25</lastmod>
@@ -19,28 +28,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://masterchef2000.github.io/2023/04/24/about/me/</loc>
-    
-    <lastmod>2023-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://masterchef2000.github.io/2023/04/24/hello-world/</loc>
-    
-    <lastmod>2023-04-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://masterchef2000.github.io/</loc>
-    <lastmod>2023-04-25</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
